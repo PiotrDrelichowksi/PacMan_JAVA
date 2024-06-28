@@ -1,7 +1,7 @@
 # PacMan in Java
 Welcome to the PacMan game implemented in Java!
 ## Features
-- Score tracking
+- Score and time tracking
 - Smooth animations and intuitive controls
 - 5 different maps to choose from
 - Classic PacMan gameplay
